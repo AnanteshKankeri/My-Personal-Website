@@ -1,0 +1,15 @@
+# Personal Website
+
+This is my first website project! 🎉  
+It’s a simple personal site built to practice **HTML**, **CSS**, and a bit of **JavaScript**.
+
+## Features
+- Home, About, Projects, and Contact pages
+- Clean and minimal design
+- Responsive layout
+
+## Getting Started
+Clone the repo and open `index.html` in your browser:
+```bash
+git clone https://github.com/your-username/personal-website.git
+cd personal-website
