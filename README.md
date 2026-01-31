@@ -4,7 +4,7 @@ This is my first website project! 🎉
 It’s a simple personal site built to practice **HTML**, **CSS**, and a bit of **JavaScript**.
 
 ## Features
-- Home, About, Projects, and Contact pages
+- Two images and some intro
 - Clean and minimal design
 - Responsive layout
 
