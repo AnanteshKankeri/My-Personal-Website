@@ -1,6 +1,6 @@
 # Personal Website
 
-This is my first website project! 🎉  
+This is my first website project! (after a long break!)🎉  
 It’s a simple personal site built to practice **HTML**, **CSS**, and a bit of **JavaScript**.
 
 ## Features
